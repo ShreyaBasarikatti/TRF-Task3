@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674246034789",
+    "project_id": "trf-task1",
+    "storage_bucket": "trf-task1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674246034789:android:6601e68225b3cbcebacd8c",
+        "android_client_info": {
+          "package_name": "com.example.trf_task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674246034789-hmhpntav5bi35bt30jjs0ui4nb5fqt9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMG7PwT2DM2s598Tx0gDuKLx3pAWTs74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674246034789-hmhpntav5bi35bt30jjs0ui4nb5fqt9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
